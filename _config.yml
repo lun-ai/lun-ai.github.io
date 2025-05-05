@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: lun_ai_homepage # the website title (if blank, full name will be used instead)
 first_name: Lun
 middle_name:
 last_name: Ai
-email: lun.ai15@imperial.ac.uk
-description: Research Associate, Department of Computing, Imperial College London, UK.
+email: lun.ai.public@gmail.com
+description: Postdoctoral Research Fellow @ EMBL-EBI
 footer_text: >
 icon: 🎓 # the emoji used as the favicon
-url: https://lai1997.github.io # the base hostname & protocol for your site
+url: https://lun-ai.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -59,7 +59,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 
-github_username: LAi1997 # your GitHub user name
+github_username: lun-ai # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: lun-ai-46481a128 # your LinkedIn user name
