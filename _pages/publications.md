@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-For the full paper list (including pre-prints), please see <ins>[Google Scholar](https://scholar.google.com/citations?user=BuI3-0UAAAAJ&hl=en)</ins>.
+For the full paper list (including pre-prints), please see <ins>[Google Scholar](https://scholar.google.com/citations?user=RKLRsH0AAAAJ&hl=en)</ins>.
 
 <!-- _pages/publications.md -->
 <div class="publications">
