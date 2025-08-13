@@ -1,9 +1,8 @@
 ---
-layout: page
-# permalink: /publications/
-permalink: https://scholar.google.com/citations?user=RKLRsH0AAAAJ&hl=en
+layout: default
+permalink: /publications/
 title: Publications
-description:
+description: 
 years: [2024,2023,2022,2021]
 nav: true
 nav_order: 2
