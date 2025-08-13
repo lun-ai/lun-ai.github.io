@@ -1,10 +1,10 @@
 ---
-layout: default
-# permalink: /publications/
+# layout: default
 title: Publications
-description: 
+permalink: /publications/
+# description: 
 # years: [2024,2023,2022,2021]
-# nav: true
+nav: true
 # nav_order: 2
 redirect: https://scholar.google.com/citations?user=RKLRsH0AAAAJ&hl=en
 ---
