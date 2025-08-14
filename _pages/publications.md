@@ -19,4 +19,9 @@ redirect: https://scholar.google.com/citations?user=RKLRsH0AAAAJ&hl=en
   <!-- {% bibliography -f papers -q @*[year={{y}}]* %} -->
 <!-- {% endfor %} -->
 
-<!-- </div> --> -->
+<!-- </div> -->
+
+<head>
+    <title>{{ page.title }}</title>
+    {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
+</head>
