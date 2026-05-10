@@ -15,7 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 I am a Postdoctoral Research Fellow at European Molecular Biology Laboratory (EMBL-EBI) in Cambridge UK, working with [Julio Saez-Rodriguez](https://www.ebi.ac.uk/people/person/julio-saez-rodriguez/).
 
-`Goal`:
 My goal is to develop reliable AI systems that are evaluable, drive real-world discovery, and are usable by scientists.
 
 `Networks`:
